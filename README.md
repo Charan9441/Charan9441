@@ -11,7 +11,7 @@
 🤖 Passionate about AI/ML & Prompt Engineering <br>
 🚀 Currently building interactive AI tools and smart web apps <br>
 💡 Exploring creative tech ideas that improve usability and user experience <br>
-💻 15+ Projects | 6+ Hackathons | Always learning, always coding ✨
+💻 3 Projects | 2+ Hackathons | Always learning, always coding ✨
 
 <b>📫 Connect with me:</b> [LinkedIn](https://www.linkedin.com/in/lakshmicharansai/) | [GitHub](https://github.com/Charan9441) | [Email](mailto:charanakula9441@gmail.com)
 
