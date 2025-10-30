@@ -17,7 +17,7 @@
 
 ---
 
-## 💻 Languages and Tools
+## 💻 Languages and Tools that i am about to learn
 
 ### 🤖 AI / ML  
 [![AI/ML](https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,vscode)](https://skillicons.dev)
@@ -31,12 +31,11 @@
 ### 🧰 Tools & Platforms  
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,postman,ubuntu)](https://skillicons.dev)
 
-### 🎨 Design  
-[![Design](https://skillicons.dev/icons?i=figma,ps,ai)](https://skillicons.dev)
+
 
 ---
 
-## 🛠️ Complete Tech Stack
+## 🛠️ Complete Tech Stack That i am about to learn
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
