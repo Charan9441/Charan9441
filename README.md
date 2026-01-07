@@ -1,57 +1,59 @@
-<h1 align="center">Hi 👋, I'm Lakshmi Charan Sai Akula</h1>
-
+<!-- HEADER -->
 <p align="center">
-  Engineering Student • Full-Stack Developer (in progress) • AI & Prompt Engineering Enthusiast
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lakshmicharansai/">LinkedIn</a> •
-  <a href="mailto:charanakula9441@gmail.com">Email</a> •
-  <a href="https://github.com/Charan9441">GitHub</a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=100&section=header&text=Lakshmi%20Charan%20Sai%20Akula&fontSize=45&fontColor=00D9FF&animation=fadeIn&color=0:0A0F15,100:0F1722" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 🌱 Learning **Full-Stack Development, AI Systems & Cloud**
-- 💡 Interested in **AI + real-world problem solving**
-- 🛠️ Building projects, not just tutorials
-- ☕ Debugs better with coffee
+## 👨‍💻 About Me
+- **Engineering Student**
+- Exploring **Full-Stack Development & AI Systems**
+- Passionate about **building real-world projects**
+- Learning something new **every single day** 🚀
 
 ---
 
-## 🧠 Tech Stack
-**Languages:** Python, Java, JavaScript, SQL  
-**Frontend:** HTML, CSS, React, Next.js, Tailwind  
-**Backend:** Node.js, Express, FastAPI, Flask  
-**Databases:** MySQL, MongoDB  
-**AI/ML:** PyTorch, TensorFlow, Scikit-learn, OpenCV  
-**Tools:** Git, GitHub, VS Code, Postman, Vercel, Netlify  
-
----
-
-## 🧩 What I’m Working On
-- 🚀 Full-stack projects with real users
-- 🤖 AI-powered applications
-- 📈 Improving DSA & system thinking
-- ✍️ Sharing learnings on LinkedIn
-
----
-
-## 📊 GitHub Stats
+## 🌐 Socials
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Charan9441&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charan9441&layout=compact&theme=radical" />
+  <a href="https://www.linkedin.com/in/lakshmicharansai/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:charanakula9441@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Charan9441">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## ✨ Quote I Live By
-> *“First make it work, then make it right, then make it fast.”*
+## 📝 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,sql" />
+</p>
 
 ---
 
-⭐ Feel free to explore my repositories and connect with me!
+## 🛠️ Tools & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,fastapi,flask,mysql,mongodb" />
+</p>
+
+---
+
+## ⚙️ Dev Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,windows" />
+</p>
+
+---
+
+## ✨ Currently
+- 🚀 Building **full-stack & AI-powered projects**
+- 📈 Improving **problem-solving & DSA**
+- 🤖 Exploring **Prompt Engineering & AI tools**
+
+---
+
+> *“First make it work. Then make it right. Then make it fast.”*
